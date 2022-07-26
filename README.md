@@ -1,1 +1,1 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${yangfanFred/BOXCOUNTER}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yangfanFredBoxCounter&left_color=green&right_color=red)
